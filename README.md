@@ -1,9 +1,9 @@
 # DataScience.blog
 Udacity Data Science Blog Project
 
-In this project, I will analyze Major Crimes, Airbnb listings, and asymmetric information in Boston. There are key 3 questions that I answer in this project:
+In this project, I will analyze Major Crimes and Airbnb listings in Boston. There are key 3 questions that I answer in this project:
 
-    I. What types of major crimes are occuring and where they are occuring?
+    I. What types of major crimes are occuring and where they are occurring?
 
     II. Can a large percentage of variation of Airbnb rental prices be predicted with available listing charcteristics?
 
